@@ -1,0 +1,7 @@
+{
+  "type": "https://example.com/errors/insufficient-credit",
+  "title": "Insufficient Credit",
+  "status": 402,
+  "detail": "Your account has insufficient credit to perform the requested operation.",
+  "instance": "/transactions/123"
+}
