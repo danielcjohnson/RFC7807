@@ -9,6 +9,9 @@
     "title": {
       "type": "string"
     },
+    "sub-title": {
+      "type": "string"
+    },
     "status": {
       "type": "integer",
       "minimum": 100,

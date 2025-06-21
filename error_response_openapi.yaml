@@ -12,6 +12,10 @@ components:
           type: string
           description: A short, human-readable summary of the problem type.
           example: Insufficient Credit
+        sub-title:
+          type: string
+          description: A short secondary summary describing the problem.
+          example: Credit balance is too low
         status:
           type: integer
           minimum: 100

@@ -4,6 +4,8 @@ This repository contains example files for an error response object that aligns 
 
 Ensure that API error responses follow this format to provide consistent and informative error messages to clients.
 
+These examples define the standard RFC 7807 fields and also include an optional `sub-title` property that can be used to provide a short secondary summary of the error condition.
+
 The error object may be extended with custom properties as needed, as long as they do not conflict with the properties defined in RFC 7807.
 
 ## Files
